@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: gray;
+}
+.email{
+margin-left:800px;
+margin-top:300px;
+width: 300px;
+height:30px;
+border: none;
+border-radius: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.isim{
+margin-left:800px;
+margin-top:20px;
+width: 300px;
+height:30px;
+border: none;
+border-radius: 8px;
+text-align: center;
+background-color: orange;
+
+}
+.parola{
+margin-left:800px;
+margin-top:20px;
+width: 300px;
+height:30px;
+border: none;
+border-radius: 8px;
+text-align: center;
+background-color: orange;
+
+
+}
+
+
+::placeholder{
+    color:black;
+    text-align: center;
+}
+
+
+.buton{
+margin-top: 50px;
+margin-left: 900px;
+width:100px;
+border: none;
+background-color: gray;
+}
+.a{
+    text-decoration: none;
+}
